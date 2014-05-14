@@ -1,3 +1,3 @@
 datasciencecoursera
 ===================
-The project is to establish certain goals of dynamic process
+The project is aimed to learn Data Science
